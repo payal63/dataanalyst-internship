@@ -115,3 +115,24 @@ Explore how GenZ perceives company missions and their alignment with actions.
 - Interactive Filters and Slicers  
 
 ![Mission Aspiration Dashboard](images/mission_aspiration_dashboard.png)
+
+sql projects
+using sql solve the question  what is the gender distribution of respodent from india?,	
+ what percentage of respondents from india are interested in education abroad and sponsership?,
+ what are 6 top influences on career aspiration for respondent in india?	,
+ How do career aspiration influences vary by gender in india?	,
+  what percentage of respondents are willing to work for a company for atleast 3 years?	,How many respondents prefer to work for socially impactful coompany?		,
+  How does the preference for social impactful company vary by gender?	,What is the distribution of minimum expected salary in the first 3 years among respondents?	,
+   what is the expected minimum monthly salary in hand?,what percentage of response prefer remote working?	,
+    what is the preferred number of daily work?	,
+     what are the common work frustrations among respondent?	,
+     How does the need for work life balance intervention vary by gender?,
+      Howmany respondents are willing to work under abusive manager?	,
+       what is the distribution of minimum expected salary after 5 years?	,
+        what are the remote working preferences by gender?	,
+         what are the top work frustrations for each gender?,
+          what factors boost work happiness and productivity for respondents?	,
+           what percentage of respondents need sponsership for education abroad?	,
+
+This SQL project analyzes survey data from respondents, focusing on career aspirations, education preferences, work-life balance, and various factors that influence employment decisions. The dataset specifically targets respondents from India, and the goal is to answer critical questions related to their career aspirations, salary expectations, work preferences, and gender distribution.
+
