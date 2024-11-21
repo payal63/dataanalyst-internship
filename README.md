@@ -116,23 +116,51 @@ Explore how GenZ perceives company missions and their alignment with actions.
 
 ![Mission Aspiration Dashboard](images/mission_aspiration_dashboard.png)
 
-sql projects
-using sql solve the question  what is the gender distribution of respodent from india?,	
- what percentage of respondents from india are interested in education abroad and sponsership?,
- what are 6 top influences on career aspiration for respondent in india?	,
- How do career aspiration influences vary by gender in india?	,
-  what percentage of respondents are willing to work for a company for atleast 3 years?	,How many respondents prefer to work for socially impactful coompany?		,
-  How does the preference for social impactful company vary by gender?	,What is the distribution of minimum expected salary in the first 3 years among respondents?	,
-   what is the expected minimum monthly salary in hand?,what percentage of response prefer remote working?	,
-    what is the preferred number of daily work?	,
-     what are the common work frustrations among respondent?	,
-     How does the need for work life balance intervention vary by gender?,
-      Howmany respondents are willing to work under abusive manager?	,
-       what is the distribution of minimum expected salary after 5 years?	,
-        what are the remote working preferences by gender?	,
-         what are the top work frustrations for each gender?,
-          what factors boost work happiness and productivity for respondents?	,
-           what percentage of respondents need sponsership for education abroad?	,
 
-This SQL project analyzes survey data from respondents, focusing on career aspirations, education preferences, work-life balance, and various factors that influence employment decisions. The dataset specifically targets respondents from India, and the goal is to answer critical questions related to their career aspirations, salary expectations, work preferences, and gender distribution.
 
+
+# SQL Project: Career Aspiration & Employment Preferences Analysis
+
+## Project Overview
+
+This SQL project analyzes a dataset of respondents from India, focusing on their **career aspirations**, **education preferences**, **work-life balance**, and other factors that influence employment decisions. The dataset includes responses to a survey that explores various aspects of respondents' professional goals, such as salary expectations, career influences, and work preferences. By querying this dataset, the project answers a series of key questions to provide insights into the career priorities, preferences, and gender-based differences among respondents in India.
+
+The main goal of this project is to:
+
+- **Analyze career aspirations** and how these aspirations vary by **gender**.
+- Identify the most important factors influencing respondents' decisions to pursue careers, including **education abroad**, **remote working preferences**, and **social impact**.
+- Determine respondents' **salary expectations** and **work-life balance** priorities.
+- Understand the **work frustrations** and the conditions under which respondents would be willing to work, such as their willingness to work for companies that are socially impactful or under **abusive managers**.
+
+## Key Analysis Questions
+
+The analysis answers several important questions derived from the survey data. These questions cover areas such as gender distribution, career aspirations, salary expectations, and work preferences:
+
+1. **What is the gender distribution** of respondents from India?
+2. What **percentage of respondents** from India are interested in **education abroad** and **sponsorship**?
+3. What are the **6 top influences on career aspirations** for respondents in India?
+4. How do **career aspiration influences** vary by **gender** in India?
+5. What **percentage of respondents** are willing to work for a company for at least **3 years**?
+6. How many respondents prefer to work for a **socially impactful company**?
+7. How does the preference for a **socially impactful company** vary by **gender**?
+8. What is the **distribution of minimum expected salary** in the first 3 years among respondents?
+9. What is the **expected minimum monthly salary in hand** for respondents?
+10. What **percentage of respondents** prefer **remote working**?
+11. What is the **preferred number of daily work hours** among respondents?
+12. What are the **common work frustrations** faced by respondents?
+13. How does the need for **work-life balance intervention** vary by **gender**?
+14. How many respondents are willing to work under an **abusive manager**?
+15. What is the **distribution of minimum expected salary** after 5 years?
+16. What are the **remote working preferences by gender**?
+17. What are the **top work frustrations** for each gender?
+18. What **factors boost work happiness and productivity** for respondents?
+19. What percentage of respondents need **sponsorship for education abroad**?
+
+By running SQL queries against the dataset, we aim to uncover key trends and patterns in the responses, offering valuable insights into the professional priorities and challenges faced by the surveyed respondents.
+
+
+# sql cleaning project
+
+## Project Overview
+
+This project aims  to clean and preprocess raw data using MySQL. The primary focus was on standardizing data formats, removing unnecessary columns, handling null values, and deleting irrelevant rows. Through these steps, I ensured the dataset was accurate, consistent, and ready for analysis. By leveraging SQL queries, I effectively addressed data quality issues, improving the reliability and usability of the dataset for downstream processes.
