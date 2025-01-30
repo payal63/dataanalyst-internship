@@ -134,7 +134,7 @@ The main goal of this project is to:
 
 ## Key Analysis Questions
 
-The analysis answers several important questions derived from the survey data. These questions cover areas such as gender distribution, career aspirations, salary expectations, and work preferences:
+The analysis answers several important questions derived from the survey data. These questions cover areas such as gender distribution, career aspirations, salary expectations, and work preferences.For Solution refer this:sql_project/Gen_z_assignment.sql
 
 1. **What is the gender distribution** of respondents from India?
 2. What **percentage of respondents** from India are interested in **education abroad** and **sponsorship**?
